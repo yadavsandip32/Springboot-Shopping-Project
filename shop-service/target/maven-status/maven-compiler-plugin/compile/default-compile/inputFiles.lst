@@ -1,0 +1,7 @@
+/Users/sandipkumar/Downloads/parent-microservices/shop-service/src/main/java/com/shopping/shopservice/controller/ProductController.java
+/Users/sandipkumar/Downloads/parent-microservices/shop-service/src/main/java/com/shopping/shopservice/repository/ProductRepository.java
+/Users/sandipkumar/Downloads/parent-microservices/shop-service/src/main/java/com/shopping/shopservice/ShopServiceApplication.java
+/Users/sandipkumar/Downloads/parent-microservices/shop-service/src/main/java/com/shopping/shopservice/model/Product.java
+/Users/sandipkumar/Downloads/parent-microservices/shop-service/src/main/java/com/shopping/shopservice/service/ProductService.java
+/Users/sandipkumar/Downloads/parent-microservices/shop-service/src/main/java/com/shopping/shopservice/dto/ProductRequest.java
+/Users/sandipkumar/Downloads/parent-microservices/shop-service/src/main/java/com/shopping/shopservice/dto/ProductResponse.java

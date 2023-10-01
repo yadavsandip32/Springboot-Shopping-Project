@@ -1,0 +1,10 @@
+com/shopping/shopservice/model/Product$ProductBuilder.class
+com/shopping/shopservice/dto/ProductResponse$ProductResponseBuilder.class
+main/java/com/shopping/shopservice/ShopServiceApplication.class
+com/shopping/shopservice/dto/ProductResponse.class
+com/shopping/shopservice/dto/ProductRequest.class
+com/shopping/shopservice/service/ProductService.class
+com/shopping/shopservice/repository/ProductRepository.class
+com/shopping/shopservice/dto/ProductRequest$ProductRequestBuilder.class
+com/shopping/shopservice/controller/ProductController.class
+com/shopping/shopservice/model/Product.class
